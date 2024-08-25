@@ -2,7 +2,8 @@
 
 ## Download the Files
 
-First, download the mod files for _Human Fall Flat_ from my GitHub (link below). [Assembly-CSharp.dll](https://github.com/HowAny/HFF-Hub/raw/main/Mod/Assembly-CSharp.dll)
+First, download the mod files for _Human Fall Flat_ from my GitHub  
+[Assembly-CSharp.dll](https://github.com/HowAny/HFF-Hub/raw/main/Mod/Assembly-CSharp.dll)
 
 ## Applying the Files
 
