@@ -9,7 +9,8 @@ First, download the mod files for _Human Fall Flat_ from my GitHub
 
 ![Steam](https://raw.githubusercontent.com/HowAny/HFF-Hub/main/Mod/ReadmeImg/Steam.png)
 
-After launching Steam, find _Human Fall Flat_ in your **Library's game list on the left**. Right-click on _Human Fall Flat_ and select **`Manage > Browse local files`** to open the folder.
+After launching Steam, find _Human Fall Flat_ in your **Library's game list on the left**. Right-click on _Human Fall Flat_ and  
+select **`Manage > Browse local files`** to open the folder.
 
 ### After Downloading
 
