@@ -19,4 +19,4 @@ Delete the Assembly-CSharp.dll file and replace it with the downloaded mod file.
 
 ## After Applying the Mod
 
-Start _Human Fall Flat_ and check if "Credits" and "Naval" are present in your Local or Online lobby.
+Start _Human Fall Flat_ and check if **"Credits" and "Naval"** are present in your Local or Online lobby.
